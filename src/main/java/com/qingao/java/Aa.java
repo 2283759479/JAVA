@@ -8,6 +8,6 @@ import org.springframework.web.bind.annotation.RestController;
 public class Aa {
 	@RequestMapping("/aa")
 	public Object aa(){
-		return "吆西";
+		return "你滴良心大大滴";
 	}
 }
